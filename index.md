@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to GoodSoul (GLS)
 
-You can use the [editor on GitHub](https://github.com/GoodSoul-GSL/w/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](scr)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The GoosSoul Token (GSL) was created to help people who find themselves in a difficult life situation 
+at this difficult time and need help from others…
+We are a group of young people who want to help others, the money from the sale of a token will go 
+to pay for the treatment of diseases, we will contribute to families if the weather conditions damage 
+their homes and other things.
+We will promote all our donations on our website so that you can share the happiness of people 
+with us.
+We would like to make our tokens pay for medicines in Pharmacies
 
-### Markdown
+# GoodSoul  
+GoodSoul (GSL) is a TRC20
+Token created on a TRON BlockChain The GSL token will serve to help people
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Total Supply: 1,000,000,000,000,000
 
-```markdown
-Syntax highlighted code block
+Circulating Supply: 1,000,000,000,000,000
 
-# Header 1
-## Header 2
-### Header 3
+## HELP PEOPLE
 
-- Bulleted
-- List
+We got together and I believe that good people still exist and we can help each other ....
+In the near future you will see posts on how we help people for the first sold tokens we provide help.
 
-1. Numbered
-2. List
+### The future
 
-**Bold** and _Italic_ and `Code` text
+The future is in your hands.
+All the money for the tokens will go to treat the people I need to follow us on social networks and share us so that others can see how we help people in the future we would like to introduce our token to the pharmacy as payment for drugs or medical supplies
 
-[Link](url) and ![Image](src)
-```
+### Follow us
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Instagram](https://www.instagram.com/goodsoulgsl/) and [Twitter](https://twitter.com/GoodSoul2021)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GoodSoul-GSL/w/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
