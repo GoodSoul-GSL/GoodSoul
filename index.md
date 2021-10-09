@@ -1,6 +1,6 @@
 ## Welcome to GoodSoul (GLS)
 
-![Image](https://raw.githubusercontent.com/GoodSoul-GSL/w/gh-pages/GoodSoul.jpg)
+![Image](https://raw.githubusercontent.com/GoodSoul-GSL/w/gh-pages/GoodSoul2.jpg)
 
 The GoosSoul Token (GSL) was created to help people who find themselves in a difficult life situation 
 at this difficult time and need help from others…
