@@ -1,6 +1,6 @@
-                                                   ## Welcome to GoodSoul (GLS)
+# Welcome to GoodSoul (GLS)
 
-                            ![Image](https://raw.githubusercontent.com/GoodSoul-GSL/w/gh-pages/GoodSoul2.jpg)
+![Image](https://raw.githubusercontent.com/GoodSoul-GSL/w/gh-pages/GoodSoul2.jpg)
 
 The GoosSoul Token (GSL) was created to help people who find themselves in a difficult life situation 
 at this difficult time and need help from others…
@@ -11,7 +11,7 @@ We will promote all our donations on our website so that you can share the happi
 with us.
 We would like to make our tokens pay for medicines in Pharmacies
 
-# GoodSoul  
+## GoodSoul  
 GoodSoul (GSL) is a TRC20
 Token created on a TRON BlockChain The GSL token will serve to help people
 
